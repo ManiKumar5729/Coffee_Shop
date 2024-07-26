@@ -7,3 +7,6 @@ This SQL project is for begineers and will teach you how to analyze the data and
 Postgre SQL
 
 Schema- Coffee Store Database
+
+![Coffee_shop EER](https://github.com/user-attachments/assets/4f4def98-bdd2-443b-8e3d-194a811879fd)
+
